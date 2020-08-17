@@ -1,0 +1,13 @@
+body {
+    background-color: #05000e;
+}
+
+.point{
+    color:  white;
+    width: 0.1px;
+    height: 0.1px;
+    border: 0.1px solid white;
+    border-radius: 50%;
+    position: absolute;
+    transition: all 1s ease-out;
+}
